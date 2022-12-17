@@ -1,2 +1,2 @@
 # localweather
-write with HTML and CSS
+write with HTML and CSS and Javascript
